@@ -1,3 +1,6 @@
+
+// worked through the assignment, then noticed all commands were already in place below.
+
 // JASKIS
 // paste the MongoDB commands you use underneath each prompt
 
